@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l+nK0lcwyKm+DWP52TQUuutgUEe+RI8kz4+3+RofzNI=",
+  "Source": "SecureAccess.Api",
+  "BasePath": "_content/SecureAccess.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
